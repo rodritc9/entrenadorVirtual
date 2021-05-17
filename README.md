@@ -5,3 +5,5 @@ Para llevarlo a cabo se emplearon los siguientes componentes:
 - Perifericos de entrada para la interaccion: Sensor Kinectic + Head Tracker (Montado con Arduino + Acelerómetro MPU 952) + Visor VRBox con celular
 - Programación de interacciones mediante paradigma de Objetos con C#.
 - Programación de emisión y recepción de información de perifericos mediante lenguaje C y .ino
+
+LINK: https://www.youtube.com/watch?v=ZHQoeNzm-Qc
